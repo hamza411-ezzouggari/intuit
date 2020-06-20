@@ -1,0 +1,129 @@
+    html {
+        height: 100%;
+        width: 100%;
+        background-color: #dfe6e9;
+    }
+    
+    * {
+        font-size: 1.05rem;
+    }
+    
+    .navbar {
+        background-color: #dfe6e9;
+        position: absolute;
+        height: 100%;
+        width: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .buttom {
+        height: 40%;
+        background-color: rgb(115, 115, 255);
+        margin: 0px 0px 1%;
+    }
+    
+    .buttom:hover {
+        background-color: #0059ff;
+    }
+    
+    .fas {
+        display: flex;
+        align-items: center;
+        margin: -4px 15px 0px;
+    }
+    
+    .text {
+        width: 90%;
+        height: 100%;
+        display: flex;
+        justify-content: flex-end;
+        flex-direction: column;
+        align-items: flex-end;
+    }
+    
+    .image {
+        position: absolute;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .logotip {
+        padding: 1% 0px 0px;
+        display: flex;
+        flex-direction: row;
+    }
+    
+    .logoa {
+        margin: 0px 10px 0px;
+        display: flex;
+        flex-direction: row;
+    }
+    
+    .logob {
+        margin: 0px 10px 0px;
+        display: flex;
+        flex-direction: row;
+    }
+    
+    .logoc {
+        margin: 0px 10px 0px;
+        display: flex;
+        flex-direction: row;
+    }
+    
+    .learn {
+        width: 90%;
+        display: flex;
+        justify-content: center;
+    }
+    
+    li {
+        display: flex;
+        justify-content: center;
+        margin: 4% 0px 0px;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    input {
+        width: 85%;
+    }
+    
+    ul {
+        background-color: rgb(255, 255, 255);
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    .account {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+    
+    button {
+        background-color: rgb(115, 115, 255);
+    }
+    
+    button:hover {
+        background-color: #0059ff;
+    }
+    
+    p2 {
+        width: 50%;
+        text-align: center;
+    }
+    
+    .text2 {
+        text-align: center;
+    }
